@@ -1,0 +1,14 @@
+{
+  "name": "sit323-2025-prac2pprac2p",
+  "version": "1.0.0",
+  "description": "Assignment 2.1P hosted HTML",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ovin Nawarathne (224349085)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

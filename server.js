@@ -1,5 +1,6 @@
 //Detailed doccumentation on how to do this task -->
 // created the directory sit323-2025-prac2p
+//make sure to have node.js installed, search web on how to do this
 // initialize project using npm init on terminal
 // install express using npm install express --save on terminal
 // copy below code onto a new Server.js file
